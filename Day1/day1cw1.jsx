@@ -11,7 +11,7 @@ function App()
     return(
         <div className="App">
             <h1>Let us see the output of the Javascript</h1>
-            <button onClick={AlertMsg}>cw1</button><br></br><br></br>
+            <button onClick={AlertMsg}>Click</button><br></br><br></br>
             
 
         </div>
