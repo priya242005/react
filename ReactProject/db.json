@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@example.com",
+      "role": "admin"
+    },
+    {
+      "id": "855a",
+      "username": "Priya242005",
+      "email": "priya02april2005@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "fc6d",
+      "username": "rasika",
+      "email": "727723eucs183@skcet.ac.in",
+      "password": "12345"
+    },
+    {
+      "id": "99f7",
+      "username": "rasika",
+      "email": "727723eucs183@skcet.ac.in",
+      "password": "12345"
+    },
+    {
+      "id": "db5a",
+      "username": "dharshan",
+      "email": "dharshan@gamil.com",
+      "password": "12345"
+    }
+  ],
+  "teamMembers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "role": "Marketing",
+      "availability": "9:00-17:00"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "role": "Content Creation",
+      "availability": "10:00-18:00"
+    }
+  ]
+}
